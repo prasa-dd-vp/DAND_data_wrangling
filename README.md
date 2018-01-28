@@ -27,6 +27,6 @@
 ## Analyze
   Then, analysis is performed on the cleaned data to find interesting patterns or relationships in the data.
   
-## Visulaise
+## Visualize
   The visulizations are produced for the better understanding of the data and visually convey the result of the analysis. 
   
